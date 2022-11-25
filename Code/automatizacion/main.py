@@ -13,7 +13,7 @@ from selenium.webdriver.firefox.options import Options
 
 directory = './cropped'
 
-files = os.listdir(directory)
+files = os.listdir(directory)  
 
 
 def first(image):
