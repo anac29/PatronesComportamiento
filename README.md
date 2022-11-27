@@ -8,3 +8,10 @@ Hay que tener en cuenta una serie de aspectos:
 * Y en Code > traffic las fotos de las gráficas proporcionadas.
 
 Este documentos se irá actualizando si alguno de estos aspectos cambiase.
+
+# Configuración del sistema
+Para poder ejecutar el código habrá que instalar selenium. Para ello ejecutamos el comandos:
+```sh
+pip install selenium \
+
+```
