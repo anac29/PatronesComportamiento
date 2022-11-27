@@ -31,7 +31,7 @@ chmod +x geckodriver
 Lo convertimos en ejecutable:
 ```sh
 sudo mv geckodriver /usr/local/bin/
-```
+
 
 
 
