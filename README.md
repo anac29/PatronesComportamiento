@@ -10,8 +10,10 @@ Hay que tener en cuenta una serie de aspectos:
 Este documentos se irá actualizando si alguno de estos aspectos cambiase.
 
 # Configuración del sistema
-Para poder ejecutar el código habrá que instalar selenium. Para ello ejecutamos el comandos:
+Para poder ejecutar el código habrá que instalar selenium. Para ello ejecutamos el comando en el caso de encontrarnos en el **Linux**:
 ```sh
-pip install selenium \
+pip install selenium 
 
 ```
+Para e
+
