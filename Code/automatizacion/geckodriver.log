@@ -15414,3 +15414,183 @@ webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1669402552440	geckodriver	INFO	Listening on 127.0.0.1:58897
+1669402552944	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "54291" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezkOYcb"
+*** You are running in headless mode.
+1669402553638	Marionette	INFO	Marionette enabled
+1669402553643	Marionette	INFO	Listening on port 45077
+Read port: 45077
+WebDriver BiDi listening on ws://127.0.0.1:54291
+1669402553797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezkOYcb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54291/devtools/browser/39ee59fa-c7d2-4332-9821-0db5279c811e
+JavaScript warning: https://apps.automeris.io/wpd/wpd.min.js, line 1: unreachable code after return statement
+1669402630454	geckodriver	INFO	Listening on 127.0.0.1:43975
+1669402630462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "43441" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6Xp09w"
+*** You are running in headless mode.
+1669402630969	Marionette	INFO	Marionette enabled
+1669402630974	Marionette	INFO	Listening on port 33605
+Read port: 33605
+WebDriver BiDi listening on ws://127.0.0.1:43441
+1669402631151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6Xp09w/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43441/devtools/browser/6e9e0d78-0566-442a-a0c5-83536ca523bc
+JavaScript warning: https://apps.automeris.io/wpd/wpd.min.js, line 1: unreachable code after return statement
+1669402689377	geckodriver	INFO	Listening on 127.0.0.1:35821
+1669402689382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "41489" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletmG9sk"
+*** You are running in headless mode.
+1669402689894	Marionette	INFO	Marionette enabled
+1669402689898	Marionette	INFO	Listening on port 40557
+Read port: 40557
+WebDriver BiDi listening on ws://127.0.0.1:41489
+1669402690064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletmG9sk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41489/devtools/browser/747ae6ab-d599-47ee-9283-58e4c4a44887
+JavaScript warning: https://apps.automeris.io/wpd/wpd.min.js, line 1: unreachable code after return statement
+1669402700500	geckodriver	INFO	Listening on 127.0.0.1:59309
+1669402700506	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "52815" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJrtyS0"
+*** You are running in headless mode.
+1669402701219	Marionette	INFO	Marionette enabled
+1669402701223	Marionette	INFO	Listening on port 46683
+Read port: 46683
+WebDriver BiDi listening on ws://127.0.0.1:52815
+1669402701382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJrtyS0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52815/devtools/browser/a3e6343b-39dc-4f41-9ad6-d3fbd94b9a9b
+JavaScript warning: https://apps.automeris.io/wpd/wpd.min.js, line 1: unreachable code after return statement
+1669402739741	geckodriver	INFO	Listening on 127.0.0.1:48115
+1669402739746	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "48409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQY5B8S"
+*** You are running in headless mode.
+1669402740251	Marionette	INFO	Marionette enabled
+1669402740255	Marionette	INFO	Listening on port 32969
+Read port: 32969
+WebDriver BiDi listening on ws://127.0.0.1:48409
+1669402740409	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQY5B8S/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48409/devtools/browser/6b6ddfda-36da-4f3f-a9f3-9a9fdcdf60ba
+JavaScript warning: https://apps.automeris.io/wpd/wpd.min.js, line 1: unreachable code after return statement
+1669402787089	geckodriver	INFO	Listening on 127.0.0.1:36623
+1669402787538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "44127" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileE5oPkZ"
+*** You are running in headless mode.
+1669402789526	Marionette	INFO	Marionette enabled
+1669402789531	Marionette	INFO	Listening on port 34721
+Read port: 34721
+WebDriver BiDi listening on ws://127.0.0.1:44127
+1669402789652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileE5oPkZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44127/devtools/browser/44a7d3c4-5f20-4ab1-b2e5-4cdaed333fa3
+JavaScript warning: https://apps.automeris.io/wpd/wpd.min.js, line 1: unreachable code after return statement
+1669402804229	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+[Parent 18518, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-aGImVB/firefox-107.0+build2/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:18518): GLib-GObject-CRITICAL **: 20:00:04.313: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1669402804435	Marionette	INFO	Stopped listening on port 34721
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1669403971657	Marionette	INFO	Stopped listening on port 32969
+1669403971680	Marionette	INFO	Stopped listening on port 46683
+1669403971689	Marionette	INFO	Stopped listening on port 40557
+!!! error running onStopped callback: TypeError: callback is not a function
+!!! error running onStopped callback: TypeError: callback is not a function
+!!! error running onStopped callback: TypeError: callback is not a function
+1669403972397	Marionette	INFO	Stopped listening on port 45077
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1669577313574	geckodriver	INFO	Listening on 127.0.0.1:59609
+1669577314077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "43383" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZmpMNl"
+*** You are running in headless mode.
+1669577314806	Marionette	INFO	Marionette enabled
+1669577314811	Marionette	INFO	Listening on port 42205
+Read port: 42205
+WebDriver BiDi listening on ws://127.0.0.1:43383
+1669577315019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZmpMNl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43383/devtools/browser/b7df76de-c96f-4825-9f1b-57e08ab9a9f6
+JavaScript warning: https://apps.automeris.io/wpd/wpd.min.js, line 1: unreachable code after return statement
+1669577331511	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+[Parent 13587, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-aGImVB/firefox-107.0+build2/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:13587): GLib-GObject-CRITICAL **: 20:28:51.609: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1669577331717	Marionette	INFO	Stopped listening on port 42205
+1669577366510	geckodriver	INFO	Listening on 127.0.0.1:35393
+1669577366516	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "45101" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAntNwy"
+*** You are running in headless mode.
+1669577367055	Marionette	INFO	Marionette enabled
+1669577367060	Marionette	INFO	Listening on port 34507
+Read port: 34507
+WebDriver BiDi listening on ws://127.0.0.1:45101
+1669577367248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAntNwy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45101/devtools/browser/c736ad06-fe3b-4053-9501-86dadee153d1
+JavaScript warning: https://apps.automeris.io/wpd/wpd.min.js, line 1: unreachable code after return statement
+1669577381729	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+[Parent 14059, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-aGImVB/firefox-107.0+build2/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14059): GLib-GObject-CRITICAL **: 20:29:41.837: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1669577381938	Marionette	INFO	Stopped listening on port 34507
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1669577409500	geckodriver	INFO	Listening on 127.0.0.1:51831
+1669577409506	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "60695" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewdCJH7"
+*** You are running in headless mode.
+1669577410170	Marionette	INFO	Marionette enabled
+1669577410174	Marionette	INFO	Listening on port 38255
+Read port: 38255
+WebDriver BiDi listening on ws://127.0.0.1:60695
+1669577410313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewdCJH7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60695/devtools/browser/80463720-22d6-4750-aeea-de4617f66278
+JavaScript warning: https://apps.automeris.io/wpd/wpd.min.js, line 1: unreachable code after return statement
+1669577425898	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+[Parent 14734, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-aGImVB/firefox-107.0+build2/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14734): GLib-GObject-CRITICAL **: 20:30:26.071: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1669577426138	Marionette	INFO	Stopped listening on port 38255
+1669577539585	geckodriver	INFO	Listening on 127.0.0.1:50237
+1669577539591	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "56777" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGV6IDd"
+*** You are running in headless mode.
+1669577540139	Marionette	INFO	Marionette enabled
+1669577540142	Marionette	INFO	Listening on port 35641
+Read port: 35641
+WebDriver BiDi listening on ws://127.0.0.1:56777
+1669577540272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGV6IDd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56777/devtools/browser/d004c9f1-befd-4cca-b8fb-3f9f782f3cb8
+JavaScript warning: https://apps.automeris.io/wpd/wpd.min.js, line 1: unreachable code after return statement
+1669577555336	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+[Parent 15702, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-aGImVB/firefox-107.0+build2/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:15702): GLib-GObject-CRITICAL **: 20:32:35.433: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1669577555542	Marionette	INFO	Stopped listening on port 35641
