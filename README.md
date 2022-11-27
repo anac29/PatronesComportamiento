@@ -15,5 +15,25 @@ Para poder ejecutar el código habrá que instalar selenium. Para ello ejecutamo
 pip install selenium 
 
 ```
-Para e
+Ahora, hay que instalar el WebDriver:
+Descargamos el driver:
+```sh
+wget https://github.com/mozilla/geckodriver/releases/download/v0.24.0/geckodriver-v0.24.0-linux64.tar.gz
+```
+Extraemos el fichero:
+```sh
+tar -xvzf geckodriver*
+```
+Lo convertimos en ejecutable:
+```sh
+chmod +x geckodriver
+```
+Lo convertimos en ejecutable:
+```sh
+sudo mv geckodriver /usr/local/bin/
+```
+
+
+
+```
 
