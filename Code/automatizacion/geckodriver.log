@@ -15594,3 +15594,47 @@ webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173
 
 (firefox:15702): GLib-GObject-CRITICAL **: 20:32:35.433: g_object_get: assertion 'G_IS_OBJECT (object)' failed
 1669577555542	Marionette	INFO	Stopped listening on port 35641
+1674218336191	geckodriver	INFO	Listening on 127.0.0.1:54967
+1674218336692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "47371" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIXTM10"
+*** You are running in headless mode.
+1674218337771	Marionette	INFO	Marionette enabled
+1674218337780	Marionette	INFO	Listening on port 46649
+Read port: 46649
+WebDriver BiDi listening on ws://127.0.0.1:47371
+1674218338006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIXTM10/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47371/devtools/browser/e767b922-56bc-4ccc-8cbb-9e7a845ef357
+JavaScript warning: https://apps.automeris.io/wpd/wpd.min.js, line 1: unreachable code after return statement
+[GFX1-]: Managed to allocate after flush.
+1674218353629	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+[Parent 238742, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-flWCF0/firefox-108.0.2+build1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:238742): GLib-GObject-CRITICAL **: 13:39:13.708: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1674218353837	Marionette	INFO	Stopped listening on port 46649
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1674218663872	geckodriver	INFO	Listening on 127.0.0.1:36479
+1674218664373	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "55883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1kaZWQ"
+*** You are running in headless mode.
+1674218665190	Marionette	INFO	Marionette enabled
+1674218665197	Marionette	INFO	Listening on port 46359
+Read port: 46359
+WebDriver BiDi listening on ws://127.0.0.1:55883
+1674218665378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1kaZWQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55883/devtools/browser/36963f25-6a9d-4ddf-b2fe-c55e76383f5c
+JavaScript warning: https://apps.automeris.io/wpd/wpd.min.js, line 1: unreachable code after return statement
+1674218680251	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+[Parent 240905, Main Thread] WARNING: g_object_get: assertion 'G_IS_OBJECT (object)' failed: 'glib warning', file /build/firefox-flWCF0/firefox-108.0.2+build1/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:240905): GLib-GObject-CRITICAL **: 13:44:40.327: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1674218680457	Marionette	INFO	Stopped listening on port 46359
