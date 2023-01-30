@@ -84,17 +84,17 @@ def csvFormatter():
                     fileOld.write(str(np.NaN) + ',' + str(np.NaN) + '\n')
 
 
-            fileOld.write(parts[2]+','+parts[3]+'\n')
+            fileOld.write(parts[0]+','+parts[2]+','+parts[3]+'\n')
             cont=cont+1
             previousTime=nowTime
 
 
         else:
             newfile=open('./intensOcupation/evolucion_diaria_intensidad.'+formDateString+'.csv','w+')
-            newfile.write('intensidad,ocupacion' + '\n')
+            newfile.write('fecha,intensidad,ocupacion' + '\n')
 
 
-            newfile.write(parts[2]+','+parts[3]+'\n')
+            newfile.write(parts[0]+','+parts[2]+','+parts[3]+'\n')
             day=formDate.day
             newfile.close()
             cont=1
