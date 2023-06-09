@@ -3,10 +3,9 @@
 Este proyecto está en su mayoría desarollado y explicado en notebooks de python. Estos se encuentran ubicados en la siguiente ruta de este repositorio: [Notebooks/PatronesComportamiento-Notebooks/PatronesComportamiento](https://github.com/anac29/PatronesComportamiento/tree/main/Notebooks/PatronesComportamiento-Notebooks/PatronesComportamiento). Del 1 al 9 están los notebooks ordenados correspondiendo con el orden en el que se desarrollaron. A continuación se adjunta un breve manual de como modificar las rutas acorde al dispositivo final donde se esté ejecutando el notebook en el caso de que se quisiesen ejecutar las celdas, para visualizar los notebooks y ver los resultados esto no sería necesario pues ya están todas ejecutadas.
 
 ## Breve guía importación notebooks
-En primer lugar, descargar el repositorio y acceder a la carpeta donde se encuentran alojados los notebooks.
-Como vemos las rutas de los archivos a los que se acceder todas comienzan por: "/content/gdrive/MyDrive/PatronesComportamiento/" esto es debido a que el proyecto entero se desarrollo en google Colab y los datos estaban alojados en drive. Además la estructura en drive no era la misma que en github pues tan sólo estaba alojada la caarpeta que se encuentra en esta ruta: [Notebooks/PatronesComportamiento-Notebooks/PatronesComportamiento](https://github.com/anac29/PatronesComportamiento/tree/main/Notebooks/PatronesComportamiento-Notebooks/PatronesComportamiento). Una vez descargado el repositorio y accedido a la carpeta tendremos que sustiur todas las rutas en las que se accede a un fichero por la ruta en nuestro dispositivo final. 
-Por ejemplo:
-si la carpeta está alojada en **/home/Ana/documents**, tendremos que sustituir  **/content/gdrive/MyDrive/PatronesComportamiento/** por **/home/Ana/documents/PatronesComportamiento\Notebooks\PatronesComportamiento-Notebooks**
+Las rutas de los notebooks de este repositorio estan universalizadas. Lo que quiere decir que funcionan en cualquier dispositivo en el caso de querer ejecutar las celdas. Por tanto tan sólo hay que descargar el repositorio y acceder a los notebooks.
+Como último apunte, los modelos fueron entrenados en google colab por lo que es posible que si se ejecuta en un entorno que no sea ese cualquier operación con los mismos no fncione pues al guardar con [skops](https://scikit-learn.org/stable/model_persistence.html) el modelo depende del sistema operativo. No obstante, el resto d métricas y celdas se pueden ejecutar.
+En el caso de querer la versión de los notebooks de rive acceder a través de este [enlace](https://drive.google.com/drive/folders/1OlhHEGF5OvJh-oHJFasn_EWG-KcCmA5Z?usp=sharing).
 
 
 
