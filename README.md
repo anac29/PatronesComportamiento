@@ -1,3 +1,12 @@
+# Acceso notebooks con desarrollo del proyecto
+
+Este proyecto está en su mayoría desarollado y explicado en notebooks de python. Estos se encuentran ubicados en la siguiente ruta de este repositorio: [Notebooks/PatronesComportamiento-Notebooks/PatronesComportamiento](https://github.com/anac29/PatronesComportamiento/tree/main/Notebooks/PatronesComportamiento-Notebooks/PatronesComportamiento). Del 1 al 9 están los notebooks ordenados correspondiendo con el orden en el que se desarrollaron. Si se visualizan desde aquí (github) no se podrán ejecutar, a continuación se adjunta un breve manual de como importar la carpeta con todo el material necesario en drive para poder ejecutar los notebooks.
+
+
+
+
+
+
 # PatronesComportamiento
 Hay que tener en cuenta una serie de aspectos:
 * Puesto que se ha desarrollado en linux la rutas usadas en los scripts pueden diferir para otro sistema operativo.
