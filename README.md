@@ -6,7 +6,7 @@ Este proyecto está en su mayoría desarollado y explicado en notebooks de pytho
 En primer lugar, descargar el repositorio y acceder a la carpeta donde se encuentran alojados los notebooks.
 Como vemos las rutas de los archivos a los que se acceder todas comienzan por: "/content/gdrive/MyDrive/PatronesComportamiento/" esto es debido a que el proyecto entero se desarrollo en google Colab y los datos estaban alojados en drive. Además la estructura en drive no era la misma que en github pues tan sólo estaba alojada la caarpeta que se encuentra en esta ruta: [Notebooks/PatronesComportamiento-Notebooks/PatronesComportamiento](https://github.com/anac29/PatronesComportamiento/tree/main/Notebooks/PatronesComportamiento-Notebooks/PatronesComportamiento). Una vez descargado el repositorio y accedido a la carpeta tendremos que sustiur todas las rutas en las que se accede a un fichero por la ruta en nuestro dispositivo final. 
 Por ejemplo:
-si la carpeta está alojada en "/home/Ana/documents", tendremos que sustituir  "/content/gdrive/MyDrive/PatronesComportamiento/" por "/home/Ana/documents/PatronesComportamiento\Notebooks\PatronesComportamiento-Notebooks"
+si la carpeta está alojada en **/home/Ana/documents**, tendremos que sustituir  **/content/gdrive/MyDrive/PatronesComportamiento/** por **/home/Ana/documents/PatronesComportamiento\Notebooks\PatronesComportamiento-Notebooks**
 
 
 
