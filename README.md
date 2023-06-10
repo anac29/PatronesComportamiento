@@ -8,7 +8,7 @@ Como último apunte, los modelos fueron entrenados en google colab por lo que es
 En el caso de querer la versión de los notebooks de rive acceder a través de este [enlace](https://drive.google.com/drive/folders/1OlhHEGF5OvJh-oHJFasn_EWG-KcCmA5Z?usp=sharing).
 
 
-
+Lo que se muestra a continuación es una pequeña guía sobre el código desarrollado para la automatización de extracción de datos.
 
 # PatronesComportamiento
 Hay que tener en cuenta una serie de aspectos:
